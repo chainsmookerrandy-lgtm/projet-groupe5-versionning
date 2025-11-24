@@ -13,3 +13,14 @@ header {
     align-items: flex-end;
     box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 }
+
+/* --- SIDEBAR --- */
+.sidebar {
+    width: 260px;
+    background: linear-gradient(180deg, #1E293B, #0F172A);
+    color: white;
+    padding: 30px 20px;
+    position: fixed;
+    height: 100%;
+    box-shadow: 4px 0 8px rgba(0,0,0,0.15);
+}
