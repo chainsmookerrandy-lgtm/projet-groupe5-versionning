@@ -13,3 +13,9 @@ header {
     align-items: flex-end;
     box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 }
+
+/* --- MAIN CONTENT --- */
+.main {
+    margin-left: 260px;
+    padding: 30px;
+}
