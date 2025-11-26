@@ -14,30 +14,13 @@ header {
     box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 }
 
-
-
-
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-body {
-    display: flex;
-    min-height: 100vh;
-    font-family: "Poppins", Arial, sans-serif;
-    background: #F1F5F9;
-}
-
-/* --- SECTIONS --- */
-.section {
-    background: white;
-    padding: 25px;
-    margin-top: 25px;
-    border-radius: 14px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-    transition: 0.3s;
-    border-left: 6px solid #2563EB;
+/* --- SIDEBAR --- */
+.sidebar {
+    width: 260px;
+    background: linear-gradient(180deg, #1E293B, #0F172A);
+    color: white;
+    padding: 30px 20px;
+    position: fixed;
+    height: 100%;
+    box-shadow: 4px 0 8px rgba(0,0,0,0.15);
 }
