@@ -38,6 +38,11 @@ header {
     box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 }
 
+/* --- MAIN CONTENT --- */
+.main {
+    margin-left: 260px;
+    padding: 30px;
+}
 .sidebar a:hover {
     background: #2563EB;
     transform: translateX(6px);
